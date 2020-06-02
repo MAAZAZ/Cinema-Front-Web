@@ -1,0 +1,25 @@
+.clickable{
+  cursor: pointer;
+}
+
+.img{
+  width: 99%;
+  display: block;
+}
+
+.center{
+  text-align: center
+}
+
+.marginbuttom{
+  margin-bottom: 10px;
+}
+
+.margintop{
+  margin-top: 20px;
+}
+
+.ticket{
+  margin: 2px;
+  width: 40px;
+}
