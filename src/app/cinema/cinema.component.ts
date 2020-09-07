@@ -29,7 +29,6 @@ export class CinemaComponent implements OnInit {
     );
   }
 
-
   public onGetCinemas(v){
     this.currentVille=v;
     this.salles=undefined;
